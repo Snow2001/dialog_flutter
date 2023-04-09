@@ -1,6 +1,6 @@
 # dialog
 
-A new Flutter project.
+Android and IOS Dialog
 
 ## Getting Started
 
